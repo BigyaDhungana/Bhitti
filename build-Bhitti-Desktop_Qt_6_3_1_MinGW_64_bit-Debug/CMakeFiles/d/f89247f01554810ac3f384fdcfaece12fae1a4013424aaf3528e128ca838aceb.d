@@ -445,6 +445,8 @@ Bhitti_autogen/timestamp: \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
   D:/Project/Bhitti/CMakeLists.txt \
+  D:/Project/Bhitti/admindash.cpp \
+  D:/Project/Bhitti/admindash.h \
   D:/Project/Bhitti/cancelorder.cpp \
   D:/Project/Bhitti/cancelorder.h \
   D:/Project/Bhitti/employeedash.cpp \
@@ -462,6 +464,7 @@ Bhitti_autogen/timestamp: \
   CMakeFiles/3.23.2/CMakeCXXCompiler.cmake \
   CMakeFiles/3.23.2/CMakeRCCompiler.cmake \
   CMakeFiles/3.23.2/CMakeSystem.cmake \
+  D:/Project/Bhitti/admindash.ui \
   D:/Project/Bhitti/cancelorder.ui \
   D:/Project/Bhitti/employeedash.ui \
   D:/Project/Bhitti/login.ui \

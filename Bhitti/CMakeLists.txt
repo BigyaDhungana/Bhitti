@@ -34,6 +34,9 @@ set(PROJECT_SOURCES
         cancelorder.cpp
         cancelorder.h
         cancelorder.ui
+        admindash.cpp
+        admindash.h
+        admindash.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
