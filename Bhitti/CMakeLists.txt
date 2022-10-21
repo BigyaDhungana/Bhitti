@@ -37,6 +37,12 @@ set(PROJECT_SOURCES
         admindash.cpp
         admindash.h
         admindash.ui
+        attendance.cpp
+        attendance.h
+        attendance.ui
+        newproduct.cpp
+        newproduct.h
+        newproduct.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

@@ -274,6 +274,12 @@
 			null
 		],
 		[
+			"D:/Project/Bhitti/attendance.h",
+			"MU",
+			"EWIEGA46WW/moc_attendance.cpp",
+			null
+		],
+		[
 			"D:/Project/Bhitti/cancelorder.h",
 			"MU",
 			"EWIEGA46WW/moc_cancelorder.cpp",
@@ -290,6 +296,12 @@
 			"D:/Project/Bhitti/neworder.h",
 			"MU",
 			"EWIEGA46WW/moc_neworder.cpp",
+			null
+		],
+		[
+			"D:/Project/Bhitti/newproduct.h",
+			"MU",
+			"EWIEGA46WW/moc_newproduct.cpp",
 			null
 		],
 		[
@@ -377,11 +389,13 @@
 	"SOURCES" : 
 	[
 		[ "D:/Project/Bhitti/admindash.cpp", "MU", null ],
+		[ "D:/Project/Bhitti/attendance.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/cancelorder.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/employeedash.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/login.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/main.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/neworder.cpp", "MU", null ],
+		[ "D:/Project/Bhitti/newproduct.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/trackorder.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/viewproduct.cpp", "MU", null ]
 	],

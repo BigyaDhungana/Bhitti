@@ -447,6 +447,8 @@ Bhitti_autogen/timestamp: \
 	D:/Project/Bhitti/CMakeLists.txt \
 	D:/Project/Bhitti/admindash.cpp \
 	D:/Project/Bhitti/admindash.h \
+	D:/Project/Bhitti/attendance.cpp \
+	D:/Project/Bhitti/attendance.h \
 	D:/Project/Bhitti/cancelorder.cpp \
 	D:/Project/Bhitti/cancelorder.h \
 	D:/Project/Bhitti/employeedash.cpp \
@@ -456,6 +458,8 @@ Bhitti_autogen/timestamp: \
 	D:/Project/Bhitti/main.cpp \
 	D:/Project/Bhitti/neworder.cpp \
 	D:/Project/Bhitti/neworder.h \
+	D:/Project/Bhitti/newproduct.cpp \
+	D:/Project/Bhitti/newproduct.h \
 	D:/Project/Bhitti/trackorder.cpp \
 	D:/Project/Bhitti/trackorder.h \
 	D:/Project/Bhitti/viewproduct.cpp \
@@ -465,10 +469,12 @@ Bhitti_autogen/timestamp: \
 	D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake \
 	D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3.23.2/CMakeSystem.cmake \
 	D:/Project/Bhitti/admindash.ui \
+	D:/Project/Bhitti/attendance.ui \
 	D:/Project/Bhitti/cancelorder.ui \
 	D:/Project/Bhitti/employeedash.ui \
 	D:/Project/Bhitti/login.ui \
 	D:/Project/Bhitti/neworder.ui \
+	D:/Project/Bhitti/newproduct.ui \
 	D:/Project/Bhitti/trackorder.ui \
 	D:/Project/Bhitti/viewproduct.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe
