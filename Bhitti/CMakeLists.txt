@@ -22,6 +22,9 @@ set(PROJECT_SOURCES
         employeedash.cpp
         employeedash.h
         employeedash.ui
+        neworder.cpp
+        neworder.h
+        neworder.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

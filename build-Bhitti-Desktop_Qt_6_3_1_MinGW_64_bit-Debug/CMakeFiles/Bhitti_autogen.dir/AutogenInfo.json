@@ -273,7 +273,13 @@
 			"EWIEGA46WW/moc_employeedash.cpp",
 			null
 		],
-		[ "D:/Project/Bhitti/login.h", "MU", "EWIEGA46WW/moc_login.cpp", null ]
+		[ "D:/Project/Bhitti/login.h", "MU", "EWIEGA46WW/moc_login.cpp", null ],
+		[
+			"D:/Project/Bhitti/neworder.h",
+			"MU",
+			"EWIEGA46WW/moc_neworder.cpp",
+			null
+		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Bhitti_autogen/include",
@@ -348,7 +354,8 @@
 	[
 		[ "D:/Project/Bhitti/employeedash.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/login.cpp", "MU", null ],
-		[ "D:/Project/Bhitti/main.cpp", "MU", null ]
+		[ "D:/Project/Bhitti/main.cpp", "MU", null ],
+		[ "D:/Project/Bhitti/neworder.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

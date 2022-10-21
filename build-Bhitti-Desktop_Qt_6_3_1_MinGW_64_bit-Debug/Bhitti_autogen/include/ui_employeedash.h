@@ -57,7 +57,7 @@ public:
         QFont font1;
         font1.setPointSize(12);
         label_3->setFont(font1);
-        label_3->setTabletTracking(true);
+        label_3->setTabletTracking(false);
         label_3->setStyleSheet(QString::fromUtf8("background-color: rgb(122, 122, 122);\n"
 ";\n"
 "color: rgb(32, 42, 68);"));
