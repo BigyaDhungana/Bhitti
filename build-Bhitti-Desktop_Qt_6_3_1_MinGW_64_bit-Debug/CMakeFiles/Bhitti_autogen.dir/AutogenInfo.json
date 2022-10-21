@@ -268,6 +268,12 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/Project/Bhitti/cancelorder.h",
+			"MU",
+			"EWIEGA46WW/moc_cancelorder.cpp",
+			null
+		],
+		[
 			"D:/Project/Bhitti/employeedash.h",
 			"MU",
 			"EWIEGA46WW/moc_employeedash.cpp",
@@ -364,6 +370,7 @@
 	"SETTINGS_FILE" : "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/Bhitti_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/Project/Bhitti/cancelorder.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/employeedash.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/login.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/main.cpp", "MU", null ],

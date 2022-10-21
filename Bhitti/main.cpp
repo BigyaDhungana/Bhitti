@@ -4,6 +4,7 @@
 #include "employeedash.h"
 #include "trackorder.h"
 #include "viewproduct.h"
+#include "cancelorder.h"
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
@@ -15,7 +16,9 @@ int main(int argc, char *argv[])
     //o1.show();
     //TrackOrder order;
     //order.show();
-    ViewProduct product1;
-    product1.show();
+    //ViewProduct product1;
+    //product1.show();
+    //CancelOrder o1;
+    //o1.show();
     return a.exec();
 }

@@ -31,6 +31,9 @@ set(PROJECT_SOURCES
         viewproduct.cpp
         viewproduct.h
         viewproduct.ui
+        cancelorder.cpp
+        cancelorder.h
+        cancelorder.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
