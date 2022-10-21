@@ -70,31 +70,37 @@ public:
         pushButton = new QPushButton(frame);
         pushButton->setObjectName(QString::fromUtf8("pushButton"));
         pushButton->setGeometry(QRect(30, 10, 121, 51));
+        pushButton->setCursor(QCursor(Qt::PointingHandCursor));
         pushButton->setStyleSheet(QString::fromUtf8("color: rgb(32, 42, 68);\n"
 "background-color: rgb(122, 122, 122);"));
         pushButton_2 = new QPushButton(frame);
         pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
         pushButton_2->setGeometry(QRect(190, 10, 121, 51));
+        pushButton_2->setCursor(QCursor(Qt::PointingHandCursor));
         pushButton_2->setStyleSheet(QString::fromUtf8("background-color: rgb(122, 122, 122);\n"
 "color: rgb(32, 42, 68);"));
         pushButton_3 = new QPushButton(frame);
         pushButton_3->setObjectName(QString::fromUtf8("pushButton_3"));
         pushButton_3->setGeometry(QRect(30, 90, 121, 51));
+        pushButton_3->setCursor(QCursor(Qt::PointingHandCursor));
         pushButton_3->setStyleSheet(QString::fromUtf8("background-color: rgb(122, 122, 122);\n"
 "color: rgb(32, 42, 68);"));
         pushButton_4 = new QPushButton(frame);
         pushButton_4->setObjectName(QString::fromUtf8("pushButton_4"));
         pushButton_4->setGeometry(QRect(190, 90, 121, 51));
+        pushButton_4->setCursor(QCursor(Qt::PointingHandCursor));
         pushButton_4->setStyleSheet(QString::fromUtf8("background-color: rgb(122, 122, 122);\n"
 "color: rgb(32, 42, 68);"));
         pushButton_5 = new QPushButton(frame);
         pushButton_5->setObjectName(QString::fromUtf8("pushButton_5"));
         pushButton_5->setGeometry(QRect(30, 170, 121, 51));
+        pushButton_5->setCursor(QCursor(Qt::PointingHandCursor));
         pushButton_5->setStyleSheet(QString::fromUtf8("background-color: rgb(122, 122, 122);\n"
 "color: rgb(32, 42, 68);"));
         pushButton_6 = new QPushButton(frame);
         pushButton_6->setObjectName(QString::fromUtf8("pushButton_6"));
         pushButton_6->setGeometry(QRect(190, 170, 121, 51));
+        pushButton_6->setCursor(QCursor(Qt::PointingHandCursor));
         pushButton_6->setStyleSheet(QString::fromUtf8("background-color: rgb(122, 122, 122);\n"
 "color: rgb(32, 42, 68);"));
         label_4 = new QLabel(EmployeeDash);

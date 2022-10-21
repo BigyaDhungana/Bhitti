@@ -97,6 +97,14 @@ build CMakeFiles/Bhitti.dir/trackorder.cpp.obj: CXX_COMPILER__Bhitti_Debug D$:/P
   OBJECT_DIR = CMakeFiles\Bhitti.dir
   OBJECT_FILE_DIR = CMakeFiles\Bhitti.dir
 
+build CMakeFiles/Bhitti.dir/viewproduct.cpp.obj: CXX_COMPILER__Bhitti_Debug D$:/Project/Bhitti/viewproduct.cpp || cmake_object_order_depends_target_Bhitti
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Bhitti.dir\viewproduct.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -ID:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug -ID:/Project/Bhitti -ID:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Bhitti_autogen/include -isystem C:/Qt/6.3.1/mingw_64/include/QtCore -isystem C:/Qt/6.3.1/mingw_64/include -isystem C:/Qt/6.3.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.3.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.3.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\Bhitti.dir
+  OBJECT_FILE_DIR = CMakeFiles\Bhitti.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Bhitti
@@ -105,7 +113,7 @@ build CMakeFiles/Bhitti.dir/trackorder.cpp.obj: CXX_COMPILER__Bhitti_Debug D$:/P
 #############################################
 # Link the executable Bhitti.exe
 
-build Bhitti.exe: CXX_EXECUTABLE_LINKER__Bhitti_Debug CMakeFiles/Bhitti.dir/Bhitti_autogen/mocs_compilation.cpp.obj CMakeFiles/Bhitti.dir/main.cpp.obj CMakeFiles/Bhitti.dir/login.cpp.obj CMakeFiles/Bhitti.dir/employeedash.cpp.obj CMakeFiles/Bhitti.dir/neworder.cpp.obj CMakeFiles/Bhitti.dir/trackorder.cpp.obj | C$:/Qt/6.3.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.3.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.3.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.3.1/mingw_64/lib/libQt6EntryPoint.a || Bhitti_autogen Bhitti_autogen_timestamp_deps
+build Bhitti.exe: CXX_EXECUTABLE_LINKER__Bhitti_Debug CMakeFiles/Bhitti.dir/Bhitti_autogen/mocs_compilation.cpp.obj CMakeFiles/Bhitti.dir/main.cpp.obj CMakeFiles/Bhitti.dir/login.cpp.obj CMakeFiles/Bhitti.dir/employeedash.cpp.obj CMakeFiles/Bhitti.dir/neworder.cpp.obj CMakeFiles/Bhitti.dir/trackorder.cpp.obj CMakeFiles/Bhitti.dir/viewproduct.cpp.obj | C$:/Qt/6.3.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.3.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.3.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.3.1/mingw_64/lib/libQt6EntryPoint.a || Bhitti_autogen Bhitti_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.3.1/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.3.1/mingw_64/lib/libQt6Gui.a  C:/Qt/6.3.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.3.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -192,7 +200,7 @@ build Bhitti_autogen_timestamp_deps: phony CMakeFiles/Bhitti_autogen_timestamp_d
 #############################################
 # Utility command for Bhitti_autogen
 
-build Bhitti_autogen: phony CMakeFiles/Bhitti_autogen Bhitti_autogen/include/ui_login.h Bhitti_autogen/include/ui_employeedash.h Bhitti_autogen/include/ui_neworder.h Bhitti_autogen/include/ui_trackorder.h Bhitti_autogen/timestamp Bhitti_autogen/mocs_compilation.cpp Bhitti_autogen_timestamp_deps
+build Bhitti_autogen: phony CMakeFiles/Bhitti_autogen Bhitti_autogen/include/ui_login.h Bhitti_autogen/include/ui_employeedash.h Bhitti_autogen/include/ui_neworder.h Bhitti_autogen/include/ui_trackorder.h Bhitti_autogen/include/ui_viewproduct.h Bhitti_autogen/timestamp Bhitti_autogen/mocs_compilation.cpp Bhitti_autogen_timestamp_deps
 
 
 #############################################
@@ -208,13 +216,13 @@ build Bhitti_autogen/timestamp Bhitti_autogen/mocs_compilation.cpp | ${cmake_nin
 #############################################
 # Phony custom command for CMakeFiles\Bhitti_autogen_timestamp_deps
 
-build CMakeFiles/Bhitti_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/Bhitti_autogen_timestamp_deps: phony C$:/Qt/6.3.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.3.1/mingw_64/./bin/moc.exe C$:/Qt/6.3.1/mingw_64/./bin/uic.exe C$:/Qt/6.3.1/mingw_64/lib/libQt6Widgets.a
+build CMakeFiles/Bhitti_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/Bhitti_autogen_timestamp_deps: phony C$:/Qt/6.3.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.3.1/mingw_64/./bin/uic.exe C$:/Qt/6.3.1/mingw_64/./bin/moc.exe C$:/Qt/6.3.1/mingw_64/lib/libQt6Widgets.a
 
 
 #############################################
 # Phony custom command for CMakeFiles\Bhitti_autogen
 
-build CMakeFiles/Bhitti_autogen Bhitti_autogen/include/ui_login.h Bhitti_autogen/include/ui_employeedash.h Bhitti_autogen/include/ui_neworder.h Bhitti_autogen/include/ui_trackorder.h | ${cmake_ninja_workdir}CMakeFiles/Bhitti_autogen ${cmake_ninja_workdir}Bhitti_autogen/include/ui_login.h ${cmake_ninja_workdir}Bhitti_autogen/include/ui_employeedash.h ${cmake_ninja_workdir}Bhitti_autogen/include/ui_neworder.h ${cmake_ninja_workdir}Bhitti_autogen/include/ui_trackorder.h: phony Bhitti_autogen/timestamp || Bhitti_autogen_timestamp_deps
+build CMakeFiles/Bhitti_autogen Bhitti_autogen/include/ui_login.h Bhitti_autogen/include/ui_employeedash.h Bhitti_autogen/include/ui_neworder.h Bhitti_autogen/include/ui_trackorder.h Bhitti_autogen/include/ui_viewproduct.h | ${cmake_ninja_workdir}CMakeFiles/Bhitti_autogen ${cmake_ninja_workdir}Bhitti_autogen/include/ui_login.h ${cmake_ninja_workdir}Bhitti_autogen/include/ui_employeedash.h ${cmake_ninja_workdir}Bhitti_autogen/include/ui_neworder.h ${cmake_ninja_workdir}Bhitti_autogen/include/ui_trackorder.h ${cmake_ninja_workdir}Bhitti_autogen/include/ui_viewproduct.h: phony Bhitti_autogen/timestamp || Bhitti_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

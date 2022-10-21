@@ -3,7 +3,7 @@
 #include <QApplication>
 #include "employeedash.h"
 #include "trackorder.h"
-
+#include "viewproduct.h"
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
@@ -15,5 +15,7 @@ int main(int argc, char *argv[])
     //o1.show();
     //TrackOrder order;
     //order.show();
+    ViewProduct product1;
+    product1.show();
     return a.exec();
 }

@@ -285,6 +285,12 @@
 			"MU",
 			"EWIEGA46WW/moc_trackorder.cpp",
 			null
+		],
+		[
+			"D:/Project/Bhitti/viewproduct.h",
+			"MU",
+			"EWIEGA46WW/moc_viewproduct.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -362,7 +368,8 @@
 		[ "D:/Project/Bhitti/login.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/main.cpp", "MU", null ],
 		[ "D:/Project/Bhitti/neworder.cpp", "MU", null ],
-		[ "D:/Project/Bhitti/trackorder.cpp", "MU", null ]
+		[ "D:/Project/Bhitti/trackorder.cpp", "MU", null ],
+		[ "D:/Project/Bhitti/viewproduct.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
