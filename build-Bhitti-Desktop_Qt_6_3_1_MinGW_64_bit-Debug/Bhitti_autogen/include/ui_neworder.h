@@ -14,6 +14,7 @@
 #include <QtWidgets/QDialog>
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
+#include <QtWidgets/QPushButton>
 #include <QtWidgets/QRadioButton>
 
 QT_BEGIN_NAMESPACE
@@ -38,6 +39,8 @@ public:
     QLineEdit *lineEdit_7;
     QRadioButton *radioButton;
     QRadioButton *radioButton_2;
+    QPushButton *pushButton;
+    QLabel *label_10;
     QLineEdit *lineEdit_3;
 
     void setupUi(QDialog *NewOrder)
@@ -51,7 +54,7 @@ public:
         NewOrder->setStyleSheet(QString::fromUtf8("background-color: rgb(122, 122, 122);"));
         label = new QLabel(NewOrder);
         label->setObjectName(QString::fromUtf8("label"));
-        label->setGeometry(QRect(20, 20, 181, 21));
+        label->setGeometry(QRect(40, -30, 181, 21));
         QFont font1;
         font1.setPointSize(18);
         label->setFont(font1);
@@ -80,12 +83,12 @@ public:
         label_6->setStyleSheet(QString::fromUtf8("color: rgb(32, 42, 68);"));
         label_7 = new QLabel(NewOrder);
         label_7->setObjectName(QString::fromUtf8("label_7"));
-        label_7->setGeometry(QRect(340, 390, 81, 20));
+        label_7->setGeometry(QRect(360, 340, 81, 20));
         label_7->setStyleSheet(QString::fromUtf8("color: rgb(32, 42, 68);\n"
 ""));
         label_8 = new QLabel(NewOrder);
         label_8->setObjectName(QString::fromUtf8("label_8"));
-        label_8->setGeometry(QRect(20, 340, 171, 16));
+        label_8->setGeometry(QRect(20, 340, 171, 21));
         label_8->setStyleSheet(QString::fromUtf8("color: rgb(32, 42, 68);"));
         label_9 = new QLabel(NewOrder);
         label_9->setObjectName(QString::fromUtf8("label_9"));
@@ -109,7 +112,7 @@ public:
         lineEdit_5->setStyleSheet(QString::fromUtf8("background-color: rgb(230, 230, 230);"));
         lineEdit_6 = new QLineEdit(NewOrder);
         lineEdit_6->setObjectName(QString::fromUtf8("lineEdit_6"));
-        lineEdit_6->setGeometry(QRect(420, 390, 111, 22));
+        lineEdit_6->setGeometry(QRect(440, 340, 111, 22));
         lineEdit_6->setStyleSheet(QString::fromUtf8("background-color: rgb(230, 230, 230);"));
         lineEdit_7 = new QLineEdit(NewOrder);
         lineEdit_7->setObjectName(QString::fromUtf8("lineEdit_7"));
@@ -125,6 +128,17 @@ public:
         radioButton_2->setObjectName(QString::fromUtf8("radioButton_2"));
         radioButton_2->setGeometry(QRect(190, 410, 69, 18));
         radioButton_2->setFont(font2);
+        pushButton = new QPushButton(NewOrder);
+        pushButton->setObjectName(QString::fromUtf8("pushButton"));
+        pushButton->setGeometry(QRect(480, 400, 81, 21));
+        pushButton->setCursor(QCursor(Qt::PointingHandCursor));
+        pushButton->setStyleSheet(QString::fromUtf8("background-color: rgb(55, 55, 55);\n"
+"color: rgb(219, 219, 219);"));
+        label_10 = new QLabel(NewOrder);
+        label_10->setObjectName(QString::fromUtf8("label_10"));
+        label_10->setGeometry(QRect(20, 30, 141, 31));
+        label_10->setFont(font1);
+        label_10->setStyleSheet(QString::fromUtf8("color: rgb(32, 42, 68);"));
         lineEdit_3 = new QLineEdit(NewOrder);
         lineEdit_3->setObjectName(QString::fromUtf8("lineEdit_3"));
         lineEdit_3->setGeometry(QRect(190, 190, 181, 22));
@@ -156,6 +170,8 @@ public:
         label_9->setText(QCoreApplication::translate("NewOrder", "Payment method", nullptr));
         radioButton->setText(QCoreApplication::translate("NewOrder", "Cash on delivery", nullptr));
         radioButton_2->setText(QCoreApplication::translate("NewOrder", "Advanced", nullptr));
+        pushButton->setText(QCoreApplication::translate("NewOrder", "Add", nullptr));
+        label_10->setText(QCoreApplication::translate("NewOrder", "New Order", nullptr));
     } // retranslateUi
 
 };

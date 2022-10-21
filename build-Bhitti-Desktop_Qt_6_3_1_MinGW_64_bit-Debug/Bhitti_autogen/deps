@@ -452,6 +452,8 @@ Bhitti_autogen/timestamp: \
 	D:/Project/Bhitti/main.cpp \
 	D:/Project/Bhitti/neworder.cpp \
 	D:/Project/Bhitti/neworder.h \
+	D:/Project/Bhitti/trackorder.cpp \
+	D:/Project/Bhitti/trackorder.h \
 	D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Bhitti_autogen/moc_predefs.h \
 	D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake \
 	D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake \
@@ -459,4 +461,5 @@ Bhitti_autogen/timestamp: \
 	D:/Project/Bhitti/employeedash.ui \
 	D:/Project/Bhitti/login.ui \
 	D:/Project/Bhitti/neworder.ui \
+	D:/Project/Bhitti/trackorder.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

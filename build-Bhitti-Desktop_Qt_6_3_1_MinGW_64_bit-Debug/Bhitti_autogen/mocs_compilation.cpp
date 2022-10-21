@@ -2,3 +2,4 @@
 #include "EWIEGA46WW/moc_employeedash.cpp"
 #include "EWIEGA46WW/moc_login.cpp"
 #include "EWIEGA46WW/moc_neworder.cpp"
+#include "EWIEGA46WW/moc_trackorder.cpp"

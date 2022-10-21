@@ -25,6 +25,9 @@ set(PROJECT_SOURCES
         neworder.cpp
         neworder.h
         neworder.ui
+        trackorder.cpp
+        trackorder.h
+        trackorder.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
