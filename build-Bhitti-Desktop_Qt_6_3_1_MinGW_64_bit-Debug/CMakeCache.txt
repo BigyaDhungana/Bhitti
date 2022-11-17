@@ -21,7 +21,7 @@ Bhitti_BINARY_DIR:STATIC=D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-D
 Bhitti_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-Bhitti_SOURCE_DIR:STATIC=D:/Project/Bhitti
+Bhitti_SOURCE_DIR:STATIC=D:/Project/Bhitti-master/Bhitti
 
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=C:/Qt/Tools/mingw1120_64/bin/addr2line.exe
@@ -419,7 +419,7 @@ CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=1
 CMAKE_HAVE_PTHREAD_H:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=D:/Project/Bhitti
+CMAKE_HOME_DIRECTORY:INTERNAL=D:/Project/Bhitti-master/Bhitti
 //ADVANCED property for variable: CMAKE_INSTALL_BINDIR
 CMAKE_INSTALL_BINDIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_INSTALL_DATADIR

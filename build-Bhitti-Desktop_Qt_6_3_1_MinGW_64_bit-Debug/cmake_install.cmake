@@ -1,4 +1,4 @@
-# Install script for directory: D:/Project/Bhitti
+# Install script for directory: D:/Project/Bhitti-master/Bhitti
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

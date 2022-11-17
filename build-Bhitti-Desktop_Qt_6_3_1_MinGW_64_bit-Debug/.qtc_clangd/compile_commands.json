@@ -34,7 +34,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -64,10 +64,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\main.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\main.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/main.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/main.cpp"
 },
 {
     "arguments": [
@@ -104,7 +104,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -134,10 +134,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\login.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\login.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/login.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/login.cpp"
 },
 {
     "arguments": [
@@ -174,7 +174,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -204,10 +204,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\employeedash.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\employeedash.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/employeedash.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/employeedash.cpp"
 },
 {
     "arguments": [
@@ -244,7 +244,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -274,10 +274,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\neworder.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\neworder.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/neworder.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/neworder.cpp"
 },
 {
     "arguments": [
@@ -314,7 +314,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -344,10 +344,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\trackorder.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\trackorder.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/trackorder.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/trackorder.cpp"
 },
 {
     "arguments": [
@@ -384,7 +384,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -414,10 +414,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\viewproduct.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\viewproduct.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/viewproduct.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/viewproduct.cpp"
 },
 {
     "arguments": [
@@ -454,7 +454,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -484,10 +484,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\cancelorder.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\cancelorder.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/cancelorder.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/cancelorder.cpp"
 },
 {
     "arguments": [
@@ -524,7 +524,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -554,10 +554,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\admindash.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\admindash.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/admindash.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/admindash.cpp"
 },
 {
     "arguments": [
@@ -594,7 +594,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -624,10 +624,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\attendance.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\attendance.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/attendance.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/attendance.cpp"
 },
 {
     "arguments": [
@@ -664,7 +664,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -694,10 +694,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\Project\\Bhitti\\newproduct.cpp"
+        "D:\\Project\\Bhitti-master\\Bhitti\\newproduct.cpp"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/newproduct.cpp"
+    "file": "D:/Project/Bhitti-master/Bhitti/newproduct.cpp"
 },
 {
     "arguments": [
@@ -734,7 +734,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -764,10 +764,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\login.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\login.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/login.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/login.h"
 },
 {
     "arguments": [
@@ -804,7 +804,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -834,10 +834,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\employeedash.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\employeedash.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/employeedash.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/employeedash.h"
 },
 {
     "arguments": [
@@ -874,7 +874,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -904,10 +904,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\neworder.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\neworder.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/neworder.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/neworder.h"
 },
 {
     "arguments": [
@@ -944,7 +944,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -974,10 +974,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\trackorder.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\trackorder.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/trackorder.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/trackorder.h"
 },
 {
     "arguments": [
@@ -1014,7 +1014,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -1044,10 +1044,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\viewproduct.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\viewproduct.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/viewproduct.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/viewproduct.h"
 },
 {
     "arguments": [
@@ -1084,7 +1084,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -1114,10 +1114,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\cancelorder.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\cancelorder.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/cancelorder.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/cancelorder.h"
 },
 {
     "arguments": [
@@ -1154,7 +1154,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -1184,10 +1184,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\admindash.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\admindash.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/admindash.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/admindash.h"
 },
 {
     "arguments": [
@@ -1224,7 +1224,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -1254,10 +1254,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\attendance.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\attendance.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/attendance.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/attendance.h"
 },
 {
     "arguments": [
@@ -1294,7 +1294,7 @@
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
         "-I",
-        "D:\\Project\\Bhitti",
+        "D:\\Project\\Bhitti-master\\Bhitti",
         "-I",
         "D:\\Project\\build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug\\Bhitti_autogen\\include",
         "-I",
@@ -1324,9 +1324,9 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\Project\\Bhitti\\newproduct.h"
+        "D:\\Project\\Bhitti-master\\Bhitti\\newproduct.h"
     ],
     "directory": "D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "D:/Project/Bhitti/newproduct.h"
+    "file": "D:/Project/Bhitti-master/Bhitti/newproduct.h"
 }
 ]

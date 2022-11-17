@@ -1,4 +1,4 @@
-D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Bhitti_autogen/EWIEGA46WW/moc_admindash.cpp: D:/Project/Bhitti/admindash.h \
+D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Bhitti_autogen/EWIEGA46WW/moc_admindash.cpp: D:/Project/Bhitti-master/Bhitti/admindash.h \
   D:/Project/build-Bhitti-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Bhitti_autogen/moc_predefs.h \
   C:/Qt/6.3.1/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.3.1/mingw_64/include/QtCore/qanystringview.h \
