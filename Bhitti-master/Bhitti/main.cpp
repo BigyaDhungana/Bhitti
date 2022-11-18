@@ -13,22 +13,22 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     Login w;
     //w.show();
-    EmployeeDash emp1;
-    emp1.showMaximized();
-  /*  NewOrder o1;
-    o1.show();
-    TrackOrder order;
-    order.show();
-    ViewProduct product1;
-    product1.show();
-    CancelOrder o11;
-    o11.show();
-    AdminDash aa;
-    aa.show();
-    Attendance atten;
-    atten.show();
+    //EmployeeDash emp1;
+   // emp1.showMaximized();
+   // NewOrder o1;
+   // o1.showMaximized();
+   // TrackOrder order;
+    //order.showMaximized();
+    //ViewProduct product1;
+    //product1.showMaximized();
+    //CancelOrder o11;
+    //o11.showMaximized();
+    //AdminDash aa;
+    //aa.showMaximized();
+    //Attendance atten;
+    //atten.showMaximized();
     NewProduct np1;
-    np1.show();
-    */
+    np1.showMaximized();
+    /**/
     return a.exec();
 }
